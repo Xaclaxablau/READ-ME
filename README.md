@@ -1,6 +1,5 @@
 <h1 align="center">Olá me chamo Kleberson</h1>
 <h3 align="center">Curioso(a) sobre programação? Vamos explorar juntos!</h3>
-## [Xaclaxablau GitHub stats](https://github-readme-stats.vercel.app/api?username=xaclaxablau&show_icons=true&theme=dracula&count_private=true)
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kleberson-moura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kleberson-moura" height="30" width="40" /></a>
