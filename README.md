@@ -1,5 +1,5 @@
 <h1 align="center">Olá me chamo Kleberson</h1>
-<h3 align="center">Sou um desenvolvedor Fullstack, tenho 5 anos de experiência. Amo a área da programação e sempre dou o meu melhor para concluir as minhas metas</h3>
+<h3 align="center">Curioso(a) sobre programação? Vamos explorar juntos!</h3>
 ## [Xaclaxablau GitHub stats](https://github-readme-stats.vercel.app/api?username=xaclaxablau&show_icons=true&theme=dracula&count_private=true)
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
